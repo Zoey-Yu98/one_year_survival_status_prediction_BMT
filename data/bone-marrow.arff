@@ -33,7 +33,7 @@
 %- DonorABO - ABO blood group of the donor of hematopoietic stem cells (0 - 0, 1, A, B=-1, AB=2),
 %- RecipientABO - ABO blood group of the recipient of hematopoietic stem cells (0 - 0, 1, A, B=-1, AB=2),
 %- RecipientRh - Presence of the Rh factor on recipient�s red blood cells ('+' - 1, '-' - 0),
-%- ABOMatch - Compatibility of the donor and the recipient of hematopoietic stem cells according to ABO blood group (matched - 1, mismatched - 0)
+%- ABOMatch - Compatibility of the donor and the recipient of hematopoietic stem cells according to ABO blood group (matched - 1, mismatched - 1)
 %- CMVstatus - Serological compatibility of the donor and the recipient of hematopoietic stem cells according to cytomegalovirus
 %  infection prior to transplantation (the higher the value the lower the compatibility)
 %- RecipientCMV - Presence of cytomegalovirus infection in the donor of hematopoietic stem cells prior to transplantation (presence - 1, absence - 0)
