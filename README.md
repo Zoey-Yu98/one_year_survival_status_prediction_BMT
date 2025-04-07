@@ -1,7 +1,3 @@
-Thank you for sharing the link to your repository! Now that I have access to the repository, here's a refined README template that you can customize for your project based on the structure and code you’ve shared:
-
----
-
 # One Year Survival Status Prediction for Pediatric Bone Marrow Transplant Patients
 
 **Description:**  
@@ -112,7 +108,10 @@ print("Accuracy:", accuracy_score(y_test, y_pred))
 
 ## **Data**
 
-The dataset used in this project contains features and outcomes of pediatric BMT patients. The data includes various features such as patient demographics, medical history, and transplant specifics. The goal is to predict whether the patient will survive for one year post-transplant.
+The dataset used in this project is derived from the following source:
+Source: Sikora, M., Wróbel, Ł., & Gudyś, A. (2020). Bone marrow transplant: children [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5NP6Z.
+
+The data contains features and outcomes of pediatric Bone Marrow Transplant (BMT) patients. The goal is to predict the 1-year survival status of patients who have undergone BMT. The dataset includes various features such as patient demographics, medical history, and transplant specifics.
 
 ---
 
